@@ -4,8 +4,8 @@ LeafClutch Website
 LeafClutch is a modern, responsive digital services website built using HTML, CSS, and JavaScript.  
 It showcases  a clean UI, smooth animations, and responsive layout.
 
-🔗 **Live Demo:** https://your-live-link-here  
-📁 **Repository:** https://github.com/Slayer-1010/leafclutch-clone.git)
+Live Demo: https://slayer-1010.github.io/leafclutch-clone/services.html
+Repository: https://github.com/Slayer-1010/leafclutch-clone.git)
 
 ---
 
