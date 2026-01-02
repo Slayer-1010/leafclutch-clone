@@ -350,10 +350,12 @@ body {
 .services-section {
   padding: 100px 20px;
   background: #f9faf9;
+  scroll-margin-top: 160px;
 }
 
 .alt-layout{
   background: #f5f7f8;
+  scroll-margin-top: 10px;
 }
 
 .services-container {
